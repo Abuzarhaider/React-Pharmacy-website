@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Pharmacy-website/static/css/main.2a2a10c7.css",
+    "main.js": "/React-Pharmacy-website/static/js/main.8d77e207.js",
+    "static/media/about_anim.png": "/React-Pharmacy-website/static/media/about_anim.be01f209d03f1abf9d5e.png",
+    "static/media/home_anim.png": "/React-Pharmacy-website/static/media/home_anim.95bbd4a0f63826446432.png",
+    "static/media/Pampers.png": "/React-Pharmacy-website/static/media/Pampers.c06d55e409ed2500fe37.png",
+    "static/media/baby-feeder.png": "/React-Pharmacy-website/static/media/baby-feeder.430f3b6940fe0a1a0760.png",
+    "static/media/Lipitor.jpg": "/React-Pharmacy-website/static/media/Lipitor.0b5b37d2a955294a5d54.jpg",
+    "static/media/disprin.jpg": "/React-Pharmacy-website/static/media/disprin.2c53d06602f4c7961eda.jpg",
+    "static/media/albuterol.jpg": "/React-Pharmacy-website/static/media/albuterol.940ccdaac5c746657131.jpg",
+    "static/media/panadol-liquid.jpg": "/React-Pharmacy-website/static/media/panadol-liquid.1b86ccfe21c1093517bd.jpg",
+    "static/media/panadol.jpg": "/React-Pharmacy-website/static/media/panadol.6fc30e7d438a2674ec4a.jpg",
+    "index.html": "/React-Pharmacy-website/index.html",
+    "main.2a2a10c7.css.map": "/React-Pharmacy-website/static/css/main.2a2a10c7.css.map",
+    "main.8d77e207.js.map": "/React-Pharmacy-website/static/js/main.8d77e207.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2a10c7.css",
+    "static/js/main.8d77e207.js"
+  ]
+}
